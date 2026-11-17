@@ -1,2 +1,2 @@
-# Atividade-SDD-na-pr-tica-com-um-framework
+# Atividade-SDD-FRONTEND
 Atividade de FRONT-END sobre SSD
