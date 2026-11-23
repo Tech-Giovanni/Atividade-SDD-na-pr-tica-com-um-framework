@@ -11,8 +11,8 @@
 - [ ] [ Samara ] 2.2 Criar o componente `src/components/BookList.jsx` para renderizar a lista de livros do acervo com seus detalhes de status.
 
 # Página Principal e Integração
-- [ ] [ Nicoly ] 3.1 Criar a página principal em `src/pages/BooksPage.jsx` integrando `BookList` e `BookForm`, gerindo os estados de carregamento, dados da API e exibição de erros de requisição.
-- [ ] [ Josué ] 3.2 Atualizar `src/App.jsx` para renderizar `BooksPage` e verificar a navegação inicial e funcionamento correto.
+- [ ] [ Josué ] 3.1 Criar a página principal em `src/pages/BooksPage.jsx` integrando `BookList` e `BookForm`, gerindo os estados de carregamento, dados da API e exibição de erros de requisição.
+- [ ] [ Nicoly ] 3.2 Atualizar `src/App.jsx` para renderizar `BooksPage` e verificar a navegação inicial e funcionamento correto.
 
 # Verificação e Qualidade
 - [ ] [ Erick ] 4.1 Executar a construção da aplicação (`npm run build`), o linter (`npm run lint`) e validar os cenários de erro da spec (API offline e campos vazios), registrando o checklist de validação.
